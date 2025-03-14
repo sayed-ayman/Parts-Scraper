@@ -1,0 +1,2 @@
+[env]
+  entrypoint = "python3 main.py"
